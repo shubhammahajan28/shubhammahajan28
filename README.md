@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubhammahajan28/shubhammahajan.github.io](https://github.com/shubhammahajan28/shubhammahajan.github.io)
+- 👨‍💻 All of my projects are available at [https://shubhammahajan28.github.io/My-Portfolio.github.io/](https://shubhammahajan28.github.io/My-Portfolio.github.io/)
 
 - 📫 How to reach me **shubhammahajan2828@gmail.com**
 
